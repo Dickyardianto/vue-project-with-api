@@ -1,5 +1,11 @@
 # vue-project-with-api
 
+## Instalation
+```
+Create a folder in the file manager
+git clone https://github.com/Dickyardianto/vue-project-with-api.git
+```
+
 ## Project setup
 ```
 npm install
